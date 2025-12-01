@@ -1,0 +1,4 @@
+langchain-gemini
+langgraph
+python-dotenv
+langchain-mcp-adapters
